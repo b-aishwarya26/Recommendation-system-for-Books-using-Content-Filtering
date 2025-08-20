@@ -164,7 +164,3 @@ It reports:
 
 ---
 
-
-
-
-so it’s a **one-liner run guide**?
